@@ -41,8 +41,11 @@ section {
     border-left: 3px solid black;    
 }
 
-section > p {
+section p {
     font-weight: bold;
+}
+
+section > p {    
     margin-bottom: 5px;
 }
 
